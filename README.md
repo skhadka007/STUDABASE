@@ -1,4 +1,6 @@
-# STUDABASE: (Stoo-da-base) A student database management program.
+# STUDABASE: A student database management program.
+STUDABASE: (Stoo-da-base)
+
 GUI style student database organization software. Uses Python3 and tkinter.
 
 ## Setup & Installation
