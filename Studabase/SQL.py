@@ -53,8 +53,8 @@ def query():
     host = "reydb3444.cf8ohqjek0e0.us-east-2.rds.amazonaws.com"
     port = 3306
     dbname = "reydb"
-    user = "masterUsername"
-    password = "3444testdb"
+    user = "ASK"
+    password = "ASK"
 
     conn = pymysql.connect(host, user=user, port=port,
                            passwd=password, db=dbname)
