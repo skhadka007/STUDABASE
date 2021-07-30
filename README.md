@@ -1,6 +1,12 @@
 # STUDABASE (Stoo-da-base)
 GUI style student database management software. Uses Python3 and tkinter.
 
+**Screenshots:**
+
+<img src="Screenshots/Studa1.JPG"> <img src="Screenshots/OpenFile.JPG>
+<img src="Screenshots/AddStudent.JPG"> <img src="Screenshots/UpdateStudent.JPG">
+
+_______________________
 ## Setup & Installation
 - Python 3. (https://www.python.org/download/releases/3.0/)
 
