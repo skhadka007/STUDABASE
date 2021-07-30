@@ -3,8 +3,8 @@ GUI style student database management software. Uses Python3 and tkinter.
 
 **Screenshots:**
 
-<img src="Screenshots/Studa1.JPG" width="190"> <img src="Screenshots/OpenFile.JPG">
-<img src="Screenshots/AddStudent.JPG"> <img src="Screenshots/UpdateStudent.JPG">
+<img src="Screenshots/Studa1.JPG" width="490"> <img src="Screenshots/OpenFile.JPG" width="490">
+<img src="Screenshots/AddStudent.JPG" width="490"> <img src="Screenshots/UpdateStudent.JPG" width="490">
 
 _______________________
 ## Setup & Installation
